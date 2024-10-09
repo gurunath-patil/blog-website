@@ -29,6 +29,7 @@
 ![Screenshot 2024-10-09 232008](https://github.com/user-attachments/assets/1e4dc2a5-2da1-4ea6-93e3-987867eb51ea)
 
 ## Blog View:
-![Uploading Screenshot 2024-10-09 232039.png…]()
+![Screenshot 2024-10-09 232039](https://github.com/user-attachments/assets/b25c2f06-0cf6-4ab9-98cd-b05f69c0ddff)
+
 
 
