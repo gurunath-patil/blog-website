@@ -16,4 +16,19 @@
 
 ***ScreenShot:***
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+## LogIn Window:
 ![Screenshot 2024-10-09 231816](https://github.com/user-attachments/assets/4aa393f4-22b7-47b3-8aef-2c0dc39b0cb6)
+
+## HomePage: 
+![Screenshot 2024-10-09 231926](https://github.com/user-attachments/assets/92b6d74a-9614-449d-812b-c3fa503cdd3a)
+
+## Users Blog:
+![Screenshot 2024-10-09 231953](https://github.com/user-attachments/assets/85412dea-aac9-4922-bcb9-1b72d2cc552d)
+
+## Create Blog:
+![Screenshot 2024-10-09 232008](https://github.com/user-attachments/assets/1e4dc2a5-2da1-4ea6-93e3-987867eb51ea)
+
+## Blog View:
+![Uploading Screenshot 2024-10-09 232039.png…]()
+
+
